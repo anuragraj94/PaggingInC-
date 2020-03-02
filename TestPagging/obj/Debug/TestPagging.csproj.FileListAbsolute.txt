@@ -1,0 +1,9 @@
+C:\Users\anura\source\repos\TestPagging\TestPagging\bin\Debug\TestPagging.exe.config
+C:\Users\anura\source\repos\TestPagging\TestPagging\bin\Debug\TestPagging.exe
+C:\Users\anura\source\repos\TestPagging\TestPagging\bin\Debug\TestPagging.pdb
+C:\Users\anura\source\repos\TestPagging\TestPagging\obj\Debug\TestPagging.csprojAssemblyReference.cache
+C:\Users\anura\source\repos\TestPagging\TestPagging\obj\Debug\TestPagging.Form1.resources
+C:\Users\anura\source\repos\TestPagging\TestPagging\obj\Debug\TestPagging.Properties.Resources.resources
+C:\Users\anura\source\repos\TestPagging\TestPagging\obj\Debug\TestPagging.csproj.GenerateResource.cache
+C:\Users\anura\source\repos\TestPagging\TestPagging\obj\Debug\TestPagging.exe
+C:\Users\anura\source\repos\TestPagging\TestPagging\obj\Debug\TestPagging.pdb
